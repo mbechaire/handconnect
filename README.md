@@ -1,3 +1,3 @@
 # handconnect
 
-projeto para escola aberta 2o25
+projeto para escola aberta 2025
